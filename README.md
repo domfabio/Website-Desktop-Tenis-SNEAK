@@ -1,4 +1,4 @@
-# 💻 Website Adaptativo Black Coffee ☕
+# 🖥️ Website Desktop Tenis SNEAK 👟🏃🏽‍♂️
 
 Este é um projeto foi um desafio como a primeira página web, desenvolvido como parte da Tarefa 2 do curso de Desenvolvimento de Layout em Front-end da Mentorama. 
 
@@ -25,7 +25,7 @@ O objetivo foi criar um site para versão desktop a partir de inspeções de um 
 <br />
 
 ## 📸 Screenshots
-![Captura de tela, desktop e mobile](../screen/desktop-sneak.png.png)
+![Captura de tela, desktop e mobile](./screen/desktop-sneak.png.png)
 
 ## 🔗 Projeto Hospedado no Vercel
 Este projeto está disponível para visualização online através do Vercel. <br />
