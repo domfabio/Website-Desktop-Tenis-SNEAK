@@ -1,12 +1,153 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello World!</title>
+    <title>SNEAK. Ultra Light</title>
+    <link rel="stylesheet" href="./css/style.css">
 </head>
+
 <body>
-    
+
+    <header>
+        <p>SNEAK.</p>
+        <nav>
+            <a>Masculino</a>
+            <a>Feminino</a>
+            <a>Novidades</a>
+            <a>Ofertas</a>
+            <a>Coleções</a>
+        </nav>
+        <div class="acoes">
+            <div class="busca">
+                <img src="./assets/header/search.svg" class="busca-lupa">
+                <input class="busca-input" type="search" name="busca" placeholder="Procurar">
+            </div>
+            <button class="btn-bag">
+                <img src="./assets/header/bag.svg" class="bag-logo">
+            </button>
+        </div>
+    </header>
+    <main>
+        <section class="hero-section">
+            <div>
+                <h1>SNEAK. <span>Ultra Light</span></h1>
+                <p>Os tênis SNEAK foram criados especificamente para treinos de circuito, seja para aulas fitness em
+                    casa ou para sua própria rotina de treinos.</p>
+                <button class="btn">
+                    <span class="btn-texto">Adicionar ao Carrinho</span>
+                    <img src="./assets/hero/plus.svg">
+                </button>
+            </div>
+            <img src="./assets/hero/sneak-hero.png" alt="imagem de um tênis esporte branco" class="sneak-hero">
+        </section>
+        <section class="sneak-escolha">
+            <h3>CORRIDA - MASCULINO</h3>
+            <img src="./assets/tenis/colors.png" alt="cores de tenis">
+            <img src="./assets/tenis/sneak-branco.png" alt="tenis branco esportivo">
+            <p>Branco</p>
+            <button class="btn">
+                <span class="btn-texto">Adicionar ao Carrinho</span>
+            </button>
+        </section>
+        <section class="destaques">
+            <div class="destak">
+                <div class="destak-texto">
+                    <h2>Leveza e agilidade</h2>
+                    <p>A construção ligeira de espuma e malha do SNEAK proporcionam conforto e agilidade durante o
+                        exercício. Um “burpee break” na parte frontal do pé torna-o extremamente flexível para fazer
+                        prancha
+                        ou Mountain Climber.</p>
+                </div>
+                <div><img src="./assets/destaques/leveza-agilidade.png" alt="imagem focando a sola de um tenis"></div>
+            </div>
+            <div class="destak">
+                <div><img src="./assets/destaques/amortecimento-imediato.png" alt="imagem de duas pessoas usando tenis">
+                </div >
+                <div class="destak-texto">
+                    <h2>Amortecimento imediato</h2>
+                    <p>A espuma grossa sob o pé absorve o impacto e retorna a energia ao correr com os joelhos altos e
+                        ao
+                        saltar. O suporte de arco da parte média do pé garante conforto durante todo o treino.</p>
+                </div>
+            </div>
+            <div class="destak">
+                <div class="destak-texto">
+                    <h2>Sensação de estabilização</h2>
+                    <p>O outrigger - a proteção lateral - dá estabilidade ao pé ao fazer movimentos laterais, como por
+                        exemplo, o Skater Squat. </p>
+                </div>
+                <div><img src="./assets/destaques/sensacao-estabilidade.png"
+                        alt="homem e mulher usando tenis fazendo atividade física"></div>
+            </div>
+        </section>
+        <section class="corra">
+            <div class="corra-div">
+                <p><img src="./assets/destaques/seta.svg">CORRA</p>
+                <p>COMO SE O MUNDO </p>
+                <p>DEPENDESSE DE VOCÊ</p>
+            </div>
+        </section>
+        <!--seção resevada para o formulário-->
+        <section class="contato">
+            <iframe width="720" height="700" frameborder="0" style="border:0"
+                referrerpolicy="no-referrer-when-downgrade"
+                src="https://www.google.com/maps/embed/v1/view?key=AIzaSyABBogQvge4Gb0kmSt-2b5JonkkNiPgjkk&center=-22.9028509,-43.203343&zoom=18"
+                allowfullscreen>
+            </iframe>
+            <form>
+                <h2>Entre em Contato</h2>
+                <input type="text" placeholder="Nome" class="contato-input">
+                <input type="text" placeholder="Email" class="contato-input">
+                <textarea rows="10" class="contato-input" placeholder="Comentários"></textarea>
+                <div class="contato-checkbox">
+                    <input type="checkbox" id="privacidade">
+                    <label for="privacidade">Concordo com a política de privacidade</label>
+                </div>
+                <button type="submit"><span class="btn-texto">Enviar</span></button>
+            </form>
+        </section>
+        <!--seção resevada para o formulário-->
+    </main>
+    <footer>
+    <div class="containers">
+      <div class="container">
+        <h6 class="brand">SNEAK.</h6>
+      </div>
+      <div class="container">
+        <h6 class="container-titulo">SOBRE SNEAK</h6>
+        <ul>
+          <li><a>Novidades</a></li>
+          <li><a>Carreira</a></li>
+          <li><a>Para investidores</a></li>
+          <li><a>Cuidado com o meio ambiente</a></li>
+        </ul>
+      </div>
+      <div class="container">
+        <h6 class="container-titulo">AJUDA</h6>
+        <ul>
+          <li><a>Status do pedido</a></li>
+          <li><a>Entregas e frete</a></li>
+          <li><a>Trocas e devoluções</a></li>
+          <li><a>Opções de pagamento</a></li>
+        </ul>
+      </div>
+      <div class="container">
+        <h6 class="container-titulo">REDES SOCIAIS</h6>
+        <div class="social-icones">
+          <img src="./assets/footer/instagram.svg" class="social-icone">
+          <img src="./assets/footer/twitter.svg" class="social-icone">
+          <img src="./assets/footer/facebook.svg" class="social-icone">
+        </div>
+      </div>
+    </div>
+    <div class="creditos">
+      <h6>DESIGNED BY</h6>
+      <img src="./assets/footer/logo-mentorama.png" class="mentorama">
+    </div>
+  </footer>
+
 </body>
+
 </html>
