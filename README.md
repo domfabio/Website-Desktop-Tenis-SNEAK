@@ -25,7 +25,7 @@ O objetivo foi criar um site para versão desktop a partir de inspeções de um 
 <br />
 
 ## 📸 Screenshots
-![Captura de tela, desktop e mobile](./screen/desktop-sneak.png.png)
+![Captura de tela](./screen/desktop-sneak.png)
 
 ## 🔗 Projeto Hospedado no Vercel
 Este projeto está disponível para visualização online através do Vercel. <br />
