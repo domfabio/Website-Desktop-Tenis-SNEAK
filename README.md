@@ -29,4 +29,4 @@ O objetivo foi codar um site para versão desktop a partir de inspeções de um 
 
 ## 🔗 Projeto Hospedado no Vercel
 Este projeto está disponível para visualização online através do Vercel. <br />
-Você pode acessá-lo através do link: https://black-coffee-iota.vercel.app/
+Você pode acessá-lo através do link: https://website-desktop-tenis-sneak.vercel.app/
