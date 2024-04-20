@@ -1,12 +1,12 @@
 # 🖥️ Website Desktop Tenis SNEAK 👟🏃🏽‍♂️
 
-Este é um projeto foi um desafio como a primeira página web, desenvolvido como parte da Tarefa 2 do curso de Desenvolvimento de Layout em Front-end da Mentorama. 
+Embora seja o segundo projeto do Curso de Desenvolvimento de Layout em Front-end da Mentorama, este foi o primeiro desafio empolgante de codar a primeira página web para a versão desktop.
 
 <br />
 
 ## 👨🏾‍💻 Desafio do Projeto
-
-O objetivo foi criar um site para versão desktop a partir de inspeções de um protótipo do Figma.
+ 
+O objetivo foi codar um site para versão desktop a partir de inspeções de um protótipo do Figma.
 
 <br />
 
