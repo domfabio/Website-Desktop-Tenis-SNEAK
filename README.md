@@ -6,7 +6,12 @@ Embora seja o segundo projeto do Curso de Desenvolvimento de Layout em Front-end
 
 ## 👨🏾‍💻 Desafio do Projeto
  
-O objetivo foi codar um site para versão desktop a partir de inspeções de um protótipo do Figma.
+O objetivo foi desenvolver um site para versão desktop a partir de inspeções de um protótipo do Figma.
+
+<br />
+
+## 📸 Screenshots
+![Captura de tela](./screen/desktop-sneak.png)
 
 <br />
 
@@ -19,13 +24,17 @@ O objetivo foi codar um site para versão desktop a partir de inspeções de um 
 
 ## 🏆 Aprendizado 
 
+- HTML Semântico
 - Flexbox
 - Variáveis CSS
 
 <br />
 
-## 📸 Screenshots
-![Captura de tela](./screen/desktop-sneak.png)
+## 🧠 Próximos Passos
+- Avançar nos estudos de Flexbox para desenvolver um site adaptativo.
+- Oraganizar o HTML e CSS utilizando a Metodoligia BEM.
+
+<br />
 
 ## 🔗 Projeto Hospedado no Vercel
 Este projeto está disponível para visualização online através do Vercel. <br />
