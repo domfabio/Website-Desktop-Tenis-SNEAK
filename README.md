@@ -32,7 +32,7 @@ O objetivo foi desenvolver um site para versão desktop a partir de inspeções 
 
 ## 🧠 Próximos Passos
 - Avançar nos estudos de Flexbox para desenvolver um site adaptativo.
-- Oraganizar o HTML e CSS utilizando a Metodoligia BEM.
+- Oraganizar o HTML e CSS utilizando a Metodologia BEM.
 
 <br />
 
